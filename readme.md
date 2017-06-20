@@ -19,7 +19,7 @@ git clone https://github.com/equation-cloud/equation-cloud-https-proxy
 
 cd equation-cloud-https-proxy
 
-docker-compose up — build -d
+docker-compose up --build -d
 ```
 
 Start the web application container.
